@@ -15,7 +15,7 @@ It's a plain static site (index.html, products.js, img/, favicon.png, .nojekyll)
 `products.js` is generated. Don't edit it by hand. Edit `/workspace/stores/beams/products_data.py`, then run `python3 make_listings.py`. That one command keeps the site, listings.csv, listings.md and pricing.md in sync. Then push products.js to the repo.
 
 ## Quote form
-The form opens the shopper's email app addressed to **malinda@scottbuilt.com** with the subject **"Barndo Beam Co. quote request"**. The item, ZIP and details are filled into the body. Change `QUOTE_EMAIL` / `QUOTE_SUBJECT` in index.html if needed.
+The form opens the shopper's email app addressed to **barndobeamco@agentmail.to** with the subject **"Barndo Beam Co. quote request"**. The item, ZIP and details are filled into the body. Change `QUOTE_EMAIL` / `QUOTE_SUBJECT` in index.html if needed.
 To use a free Google Form instead, paste its link into `GOOGLE_FORM_URL`.
 
 ## Later (optional)
