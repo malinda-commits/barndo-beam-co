@@ -208,6 +208,70 @@
       "@type": "Answer",
       "text": "Because each piece is cut and finished to order, all sales are final. If anything arrives damaged, send us photos within 48 hours and we'll make it right. Reclaimed wood never matches exactly, and that's the charm. For one-of-a-kind pieces, we send photos of your exact piece first."
      }
+    },
+    {
+     "@type": "Question",
+     "name": "How do I measure for a ceiling beam or a mantel?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "For a ceiling beam, measure the length the beam should cover, and note the ceiling height and which way the joists run. Solid and box beams come in 8, 12, 16, and 20 ft lengths, and other lengths are available by quote. For a mantel, measure the fireplace opening and the overhang you want on each side; stock mantels have an 8 inch face, are 10 inches deep, and run 6 to 10 ft. Send those measurements with the free quote form so we can price the length you need."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Should I choose a box beam or a solid beam?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Choose a box beam if you want the look of a timber on a finished ceiling and you need something much lighter than solid wood. A box beam is a three-sided hollow beam, open on top, so it slides over a mounting board. A solid beam is 8 by 8 or 10 by 10 inches and it's heavy, so plan for proper support and a carpenter or builder to install it. Both are decorative unless your builder or a structural engineer approves the piece to carry a load."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How are beams mounted?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Box beams are usually mounted by screwing a wood board, called blocking, into the ceiling joists, then sliding the beam over it and fastening through the sides. Mantels are usually hung on a hidden steel bracket or on lag bolts set into studs or masonry. Solid beams are heavy, so plan the support before they go up. We recommend a carpenter or builder for the install."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How do I pick a stain to match my floors or cabinets?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Beams, mantels, and tables come in a natural (clear), medium, or dark finish. Hold a sample of your floor or cabinet color next to those three and pick the closest one. Reclaimed wood won't match another finish exactly, and the adze marks and color shifts are part of the wood. If you're between two tones, describe the floors and cabinets on the free quote form and tell us which finish you want."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How long does a custom order take, and how does a quote work?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Every piece is made to order, so the timing depends on the size and the wood available, and we give you an estimated time with your quote. Use the free quote form, or call 1-877-870-BEAM (2326), and tell us the piece, the size, the finish, and your ZIP code. We reply within 2 business days with the price and shipping, and you're under no obligation. Once you approve the quote, you can pay securely online by card, and we send photos before your piece ships."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Do you ship beams, and how are they packed?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we ship to every state in the continental US by freight or ground carrier, depending on size and weight, and each piece is packed with care. Shipping is quoted to your ZIP code before you pay. Local pickup in Oklahoma is available by appointment. Put your ZIP on the free quote form and the shipping price comes back with the wood price."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How do I clean and care for a hand-hewn beam?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Dust the beam with a soft, dry cloth, and wipe spills promptly so water doesn't sit on the wood. Don't soak the beam or use harsh cleaners, because they can dull a natural, medium, or dark finish. The adze marks, nail holes, and weathered color are part of the wood, so clean the surface and leave the texture as it is. If you have a question about the finish after it arrives, call 1-877-870-BEAM (2326) or email barndobeamco@agentmail.to."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Can I get a table that matches my beams?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we make dining, coffee, and console tables to order from the same hand-hewn reclaimed beams, in a natural, medium, or dark finish. Tell us the size, the finish, and your room, and mention any mantel or ceiling beams you want it to sit with. No two pieces of reclaimed wood match exactly. We'll send a free quote with shipping to your ZIP code."
+     }
     }
    ]
   }
@@ -416,6 +480,8 @@ textarea{min-height:130px;resize:vertical}
 .faq summary:after{content:"+";font-family:"Cormorant Garamond",serif;font-size:1.6rem;color:var(--copper);line-height:1}
 .faq details[open] summary:after{content:"–"}
 .faq details p{margin:.2em 0 1em;color:#4a433c}
+.faq summary span{flex:1;min-width:0}
+#guide{background:var(--paper);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
 
 footer{
   background:var(--black);color:#d9d0c4;
@@ -455,19 +521,20 @@ footer img{width:84px;height:84px;border-radius:50%;margin:0}
 @media(min-width:1100px){
   :root{--header:76px}
   .wrap{padding:0 28px}
-  .bar{flex-wrap:nowrap;align-items:center;padding-top:0;padding-bottom:0;gap:24px}
+  .bar{flex-wrap:nowrap;align-items:center;padding-top:0;padding-bottom:0;gap:20px}
+  .brand{flex-shrink:0}
   .tel-bar,.menu{display:none}
   .eyebrow{letter-spacing:.2em}
   .hero .eyebrow{max-width:none}
   nav{
     display:flex;flex:1 1 auto;order:2;align-items:center;justify-content:flex-end;
-    border:0;padding:0;width:auto;
+    border:0;padding:0;width:auto;min-width:0;
   }
   nav a{
     display:inline-flex;border:0;min-height:0;
-    margin-left:16px;font-size:.88rem;white-space:nowrap;
+    margin-left:11px;font-size:.82rem;white-space:nowrap;
   }
-  nav a.btn{margin-top:0;margin-left:20px;padding:10px 16px;min-height:42px}
+  nav a.btn{margin-top:0;margin-left:14px;padding:10px 14px;min-height:42px}
   .hero{min-height:min(84vh,780px)}
   .hero .wrap{padding-bottom:72px}
   .hero-cta{flex-direction:row;max-width:none}
@@ -476,6 +543,11 @@ footer img{width:84px;height:84px;border-radius:50%;margin:0}
   .grid{grid-template-columns:repeat(3,1fr);gap:26px}
   .steps{grid-template-columns:repeat(4,1fr);gap:18px}
   .card .btn{align-self:flex-start}
+}
+@media(min-width:1280px){
+  .bar{gap:24px}
+  nav a{margin-left:16px;font-size:.88rem}
+  nav a.btn{margin-left:20px;padding:10px 16px}
 }
 @media(prefers-reduced-motion:reduce){
   html{scroll-behavior:auto}
@@ -501,7 +573,7 @@ footer img{width:84px;height:84px;border-radius:50%;margin:0}
     <a class="brand" href="#"><img src="img/barndo-beam-icon.jpg" alt=""><span>BARNDO BEAM CO.</span></a>
     <button class="menu" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
     <a class="tel-bar" href="tel:+18778702326">1-877-870-2326</a>
-    <nav id="site-nav"><a class="tel" href="tel:+18778702326">1-877-870-2326</a><a href="#shop">Shop</a><a href="#tables">Custom Tables</a><a href="#story">Our Story</a><a href="#how">How It Works</a><a href="#faq">FAQ</a><a href="#pay">Pay Your Quote</a><a class="btn" href="#quote">Get a Quote</a></nav>
+    <nav id="site-nav"><a class="tel" href="tel:+18778702326">1-877-870-2326</a><a href="#shop">Shop</a><a href="#tables">Custom Tables</a><a href="#story">Our Story</a><a href="#how">How It Works</a><a href="#guide">Buying Guide</a><a href="#faq">FAQ</a><a href="#pay">Pay Your Quote</a><a class="btn" href="#quote">Get a Quote</a></nav>
   </div>
 </header>
 
@@ -572,6 +644,45 @@ footer img{width:84px;height:84px;border-radius:50%;margin:0}
     <div><h3>We prepare your piece</h3><p>It's selected, cut and finished to order. We send photos before it ships.</p></div>
     <div><h3>It ships to your door</h3><p>Packed and shipped nationwide, or picked up in Oklahoma.</p></div>
   </div>
+</div></section>
+
+<section id="guide" class="faq"><div class="wrap">
+  <div class="ornament" aria-hidden="true"><span></span></div>
+  <div class="eyebrow">Buying guide</div>
+  <h2>Beam Buying Guide &amp; FAQ</h2>
+  <p class="lead">Straight answers on measuring, box beams and solid beams, mounting, finish, shipping, and care. Price, shipping, and timing all come back on your free quote.</p>
+  <details>
+    <summary><span>How do I measure for a ceiling beam or a mantel?</span></summary>
+    <p>For a ceiling beam, measure the length the beam should cover, and note the ceiling height and which way the joists run. Solid and box beams come in 8, 12, 16, and 20 ft lengths, and other lengths are available by quote. For a mantel, measure the fireplace opening and the overhang you want on each side; stock mantels have an 8 inch face, are 10 inches deep, and run 6 to 10 ft. Send those measurements with the free quote form so we can price the length you need.</p>
+  </details>
+  <details>
+    <summary><span>Should I choose a box beam or a solid beam?</span></summary>
+    <p>Choose a box beam if you want the look of a timber on a finished ceiling and you need something much lighter than solid wood. A box beam is a three-sided hollow beam, open on top, so it slides over a mounting board. A solid beam is 8 by 8 or 10 by 10 inches and it's heavy, so plan for proper support and a carpenter or builder to install it. Both are decorative unless your builder or a structural engineer approves the piece to carry a load.</p>
+  </details>
+  <details>
+    <summary><span>How are beams mounted?</span></summary>
+    <p>Box beams are usually mounted by screwing a wood board, called blocking, into the ceiling joists, then sliding the beam over it and fastening through the sides. Mantels are usually hung on a hidden steel bracket or on lag bolts set into studs or masonry. Solid beams are heavy, so plan the support before they go up. We recommend a carpenter or builder for the install.</p>
+  </details>
+  <details>
+    <summary><span>How do I pick a stain to match my floors or cabinets?</span></summary>
+    <p>Beams, mantels, and tables come in a natural (clear), medium, or dark finish. Hold a sample of your floor or cabinet color next to those three and pick the closest one. Reclaimed wood won't match another finish exactly, and the adze marks and color shifts are part of the wood. If you're between two tones, describe the floors and cabinets on the free quote form and tell us which finish you want.</p>
+  </details>
+  <details>
+    <summary><span>How long does a custom order take, and how does a quote work?</span></summary>
+    <p>Every piece is made to order, so the timing depends on the size and the wood available, and we give you an estimated time with your quote. Use the free quote form, or call 1-877-870-BEAM (2326), and tell us the piece, the size, the finish, and your ZIP code. We reply within 2 business days with the price and shipping, and you're under no obligation. Once you approve the quote, you can pay securely online by card, and we send photos before your piece ships.</p>
+  </details>
+  <details>
+    <summary><span>Do you ship beams, and how are they packed?</span></summary>
+    <p>Yes, we ship to every state in the continental US by freight or ground carrier, depending on size and weight, and each piece is packed with care. Shipping is quoted to your ZIP code before you pay. Local pickup in Oklahoma is available by appointment. Put your ZIP on the free quote form and the shipping price comes back with the wood price.</p>
+  </details>
+  <details>
+    <summary><span>How do I clean and care for a hand-hewn beam?</span></summary>
+    <p>Dust the beam with a soft, dry cloth, and wipe spills promptly so water doesn't sit on the wood. Don't soak the beam or use harsh cleaners, because they can dull a natural, medium, or dark finish. The adze marks, nail holes, and weathered color are part of the wood, so clean the surface and leave the texture as it is. If you have a question about the finish after it arrives, call 1-877-870-BEAM (2326) or email barndobeamco@agentmail.to.</p>
+  </details>
+  <details>
+    <summary><span>Can I get a table that matches my beams?</span></summary>
+    <p>Yes, we make dining, coffee, and console tables to order from the same hand-hewn reclaimed beams, in a natural, medium, or dark finish. Tell us the size, the finish, and your room, and mention any mantel or ceiling beams you want it to sit with. No two pieces of reclaimed wood match exactly. We'll send a free quote with shipping to your ZIP code.</p>
+  </details>
 </div></section>
 
 <section id="inspire"><div class="wrap">
