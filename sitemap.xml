@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://barndobeamco.com/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://barndobeamco.com/img/great-room-beams.jpg</image:loc></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/table-dining-barndo.jpg</image:loc></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/table-coffee-barndo.jpg</image:loc></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/table-console-entry.jpg</image:loc></image:image>
-    <image:image><image:loc>https://barndobeamco.com/img/stone-fireplace-mantel.jpg</image:loc></image:image>
-    <image:image><image:loc>https://barndobeamco.com/img/product-mantel-closeup.jpg</image:loc></image:image>
-    <image:image><image:loc>https://barndobeamco.com/img/fireplace-surround.jpg</image:loc></image:image>
+    <image:image><image:loc>https://barndobeamco.com/img/stone-fireplace-mantel.jpg</image:loc><image:caption>Design inspiration for the fireplace mantel sizing guide: a reclaimed wood mantel overhanging a stone firebox.</image:caption></image:image>
+    <image:image><image:loc>https://barndobeamco.com/img/product-mantel-closeup.jpg</image:loc><image:caption>Product photo of a hand-hewn reclaimed wood mantel beam with an 8 inch face.</image:caption></image:image>
+    <image:image><image:loc>https://barndobeamco.com/img/fireplace-surround.jpg</image:loc><image:caption>Design inspiration: a beam fireplace surround with a mantel and two legs.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/ceiling-beam-package.jpg</image:loc></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/box-beam-dining.jpg</image:loc></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/porch-entry-header.jpg</image:loc></image:image>
@@ -39,7 +39,7 @@
   </url>
   <url>
     <loc>https://barndobeamco.com/llms.txt</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
