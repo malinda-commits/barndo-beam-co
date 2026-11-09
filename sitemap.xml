@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://barndobeamco.com/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://barndobeamco.com/img/great-room-beams.jpg</image:loc></image:image>
@@ -14,7 +14,7 @@
     <image:image><image:loc>https://barndobeamco.com/img/fireplace-surround.jpg</image:loc><image:caption>Design inspiration: a beam fireplace surround with a mantel and two legs.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/ceiling-beam-package.jpg</image:loc><image:caption>Design inspiration for the ceiling beam sizing guide: reclaimed wood beams spaced across a tall ceiling.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/box-beam-dining.jpg</image:loc><image:caption>Design inspiration: wood box beams set closer together on a dining ceiling.</image:caption></image:image>
-    <image:image><image:loc>https://barndobeamco.com/img/porch-entry-header.jpg</image:loc></image:image>
+    <image:image><image:loc>https://barndobeamco.com/img/porch-entry-header.jpg</image:loc><image:caption>Design inspiration: a timber header on a covered porch, kept out of direct weather.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/corbels-pair.jpg</image:loc></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/beam-console-entry.jpg</image:loc></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/dining-table-rectangular.jpg</image:loc><image:caption>Design inspiration: a reclaimed wood dining table top on a black steel base.</image:caption></image:image>
@@ -24,10 +24,10 @@
     <image:image><image:loc>https://barndobeamco.com/img/entertainment-console.jpg</image:loc></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/floating-shelves.jpg</image:loc></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/shelf-set.jpg</image:loc></image:image>
-    <image:image><image:loc>https://barndobeamco.com/img/bar-top.jpg</image:loc></image:image>
+    <image:image><image:loc>https://barndobeamco.com/img/bar-top.jpg</image:loc><image:caption>Design inspiration: a reclaimed wood top, cared for with coasters and wiped spills.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/stair-treads.jpg</image:loc></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/accent-wall.jpg</image:loc></image:image>
-    <image:image><image:loc>https://barndobeamco.com/img/product-beam-texture.jpg</image:loc></image:image>
+    <image:image><image:loc>https://barndobeamco.com/img/product-beam-texture.jpg</image:loc><image:caption>Product photo of hand-hewn reclaimed wood with checks along the grain.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/reclaimed-long-boards.jpg</image:loc></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/charcuterie-board.jpg</image:loc></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/table-dining-ranch.jpg</image:loc><image:caption>Design inspiration: a reclaimed wood dining table on thick beam legs.</image:caption></image:image>
@@ -39,7 +39,7 @@
   </url>
   <url>
     <loc>https://barndobeamco.com/llms.txt</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
