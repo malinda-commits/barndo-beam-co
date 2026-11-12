@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://barndobeamco.com/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://barndobeamco.com/img/great-room-beams.jpg</image:loc></image:image>
@@ -10,7 +10,7 @@
     <image:image><image:loc>https://barndobeamco.com/img/table-coffee-barndo.jpg</image:loc><image:caption>Design inspiration: a stacked hand-hewn beam coffee table.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/table-console-entry.jpg</image:loc><image:caption>Design inspiration: a solid hand-hewn beam console table in an entryway.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/stone-fireplace-mantel.jpg</image:loc><image:caption>Design inspiration for the fireplace mantel sizing guide: a reclaimed wood mantel overhanging a stone firebox.</image:caption></image:image>
-    <image:image><image:loc>https://barndobeamco.com/img/product-mantel-closeup.jpg</image:loc><image:caption>Product photo of a hand-hewn reclaimed wood mantel beam with an 8 inch face.</image:caption></image:image>
+    <image:image><image:loc>https://barndobeamco.com/img/product-mantel-closeup.jpg</image:loc><image:caption>Product photo of a hand-hewn reclaimed wood mantel beam with an 8 inch face and scooped tool marks, for the hand-hewn vs. faux guide.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/fireplace-surround.jpg</image:loc><image:caption>Design inspiration: a beam fireplace surround with a mantel and two legs.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/ceiling-beam-package.jpg</image:loc><image:caption>Design inspiration for the ceiling beam sizing guide: reclaimed wood beams spaced across a tall ceiling.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/box-beam-dining.jpg</image:loc><image:caption>Design inspiration: wood box beams set closer together on a dining ceiling.</image:caption></image:image>
@@ -27,7 +27,7 @@
     <image:image><image:loc>https://barndobeamco.com/img/bar-top.jpg</image:loc><image:caption>Design inspiration: a reclaimed wood top, cared for with coasters and wiped spills.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/stair-treads.jpg</image:loc></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/accent-wall.jpg</image:loc></image:image>
-    <image:image><image:loc>https://barndobeamco.com/img/product-beam-texture.jpg</image:loc><image:caption>Product photo of hand-hewn reclaimed wood with checks along the grain.</image:caption></image:image>
+    <image:image><image:loc>https://barndobeamco.com/img/product-beam-texture.jpg</image:loc><image:caption>Product photo for the hand-hewn vs. faux guide: hand-hewn reclaimed wood with checks, nail holes, and an uneven face.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/reclaimed-long-boards.jpg</image:loc></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/charcuterie-board.jpg</image:loc></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/table-dining-ranch.jpg</image:loc><image:caption>Design inspiration: a reclaimed wood dining table on thick beam legs.</image:caption></image:image>
@@ -39,7 +39,7 @@
   </url>
   <url>
     <loc>https://barndobeamco.com/llms.txt</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
