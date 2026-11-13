@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://barndobeamco.com/</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <image:image><image:loc>https://barndobeamco.com/img/great-room-beams.jpg</image:loc></image:image>
+    <image:image><image:loc>https://barndobeamco.com/img/great-room-beams.jpg</image:loc><image:caption>Design inspiration for beam ideas by room: timber beams across a tall great room ceiling.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/table-dining-barndo.jpg</image:loc><image:caption>Design inspiration: a hand-hewn reclaimed beam trestle dining table.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/table-coffee-barndo.jpg</image:loc><image:caption>Design inspiration: a stacked hand-hewn beam coffee table.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/table-console-entry.jpg</image:loc><image:caption>Design inspiration: a solid hand-hewn beam console table in an entryway.</image:caption></image:image>
@@ -16,7 +16,7 @@
     <image:image><image:loc>https://barndobeamco.com/img/box-beam-dining.jpg</image:loc><image:caption>Design inspiration: wood box beams set closer together on a dining ceiling.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/porch-entry-header.jpg</image:loc><image:caption>Design inspiration: a timber header on a covered porch, kept out of direct weather.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/corbels-pair.jpg</image:loc></image:image>
-    <image:image><image:loc>https://barndobeamco.com/img/beam-console-entry.jpg</image:loc></image:image>
+    <image:image><image:loc>https://barndobeamco.com/img/beam-console-entry.jpg</image:loc><image:caption>Design inspiration for beam ideas by room: a solid hand-hewn beam console in an entryway.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/dining-table-rectangular.jpg</image:loc><image:caption>Design inspiration: a reclaimed wood dining table top on a black steel base.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/dining-table-round.jpg</image:loc></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/live-edge-table.jpg</image:loc></image:image>
@@ -35,11 +35,11 @@
     <image:image><image:loc>https://barndobeamco.com/img/table-console-sofa.jpg</image:loc><image:caption>Design inspiration: a reclaimed beam sofa-back console table with a shelf.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/oklahoma-workshop.jpg</image:loc></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/kitchen-ceiling-beams.jpg</image:loc><image:caption>Design inspiration: three wood ceiling beams spaced across a kitchen.</image:caption></image:image>
-    <image:image><image:loc>https://barndobeamco.com/img/bedroom-custom-beam.jpg</image:loc></image:image>
+    <image:image><image:loc>https://barndobeamco.com/img/bedroom-custom-beam.jpg</image:loc><image:caption>Design inspiration for beam ideas by room: a reclaimed wood beam over a bed.</image:caption></image:image>
   </url>
   <url>
     <loc>https://barndobeamco.com/llms.txt</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
