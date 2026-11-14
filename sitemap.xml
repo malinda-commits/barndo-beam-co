@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://barndobeamco.com/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://barndobeamco.com/img/great-room-beams.jpg</image:loc><image:caption>Design inspiration for beam ideas by room: timber beams across a tall great room ceiling.</image:caption></image:image>
@@ -25,7 +25,7 @@
     <image:image><image:loc>https://barndobeamco.com/img/floating-shelves.jpg</image:loc></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/shelf-set.jpg</image:loc></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/bar-top.jpg</image:loc><image:caption>Design inspiration: a reclaimed wood top, cared for with coasters and wiped spills.</image:caption></image:image>
-    <image:image><image:loc>https://barndobeamco.com/img/stair-treads.jpg</image:loc></image:image>
+    <image:image><image:loc>https://barndobeamco.com/img/stair-treads.jpg</image:loc><image:caption>Design inspiration for the barndo beam design guide: a wood beam over a wide opening beside a black steel stair.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/accent-wall.jpg</image:loc></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/product-beam-texture.jpg</image:loc><image:caption>Product photo for the hand-hewn vs. faux guide: hand-hewn reclaimed wood with checks, nail holes, and an uneven face.</image:caption></image:image>
     <image:image><image:loc>https://barndobeamco.com/img/reclaimed-long-boards.jpg</image:loc></image:image>
@@ -39,7 +39,7 @@
   </url>
   <url>
     <loc>https://barndobeamco.com/llms.txt</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
