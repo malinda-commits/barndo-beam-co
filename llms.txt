@@ -281,6 +281,28 @@ Put a few hand-hewn beams where the eye already goes: the tall ceiling, the mant
 ### How do I request a free quote for beams in an open barndo?
 Use the free quote form at https://barndobeamco.com/#quote, call 1-877-870-BEAM (2326), or email barndobeamco@agentmail.to. Tell us the ceiling height, the pieces, the sizes, the finish (natural, medium, or dark), and your ZIP code. We reply within 2 business days with the wood price and shipping to that ZIP. Quotes are free, and every piece is handcrafted in Oklahoma, shipped in the continental US.
 
+## Range hood beam guide
+
+How to size a hand-hewn reclaimed beam as a kitchen range hood mantel: hood width and overhang, face height and depth, clearance and heat, mounting, grease cleaning, and pairing with a mantel or ceiling beams. Full guide: https://barndobeamco.com/#range-hood-beam-guide
+
+### How do I size a hand-hewn reclaimed beam to a range hood?
+Measure the range hood, outside edge to outside edge, not the cooktop. Add overhang on each side so the beam reads wider than the hood. Six inches looks tighter. Twelve inches looks heavier. A 48 inch hood plus 12 inches on each side is 72 inches, which is a 6 ft beam. A 36 inch hood is shorter than the 6 ft stock minimum, so a 6 ft beam leaves about 18 inches of overhang on each side when it is centered. If cabinets flank the hood, stop the beam short of the cabinet doors. Stock lengths are 6, 7, 8, 9, and 10 ft. If the math lands between those, round up to the next length, or ask for a custom length. This overhang is for looks. It is not a heat clearance. See the range hood beam guide at https://barndobeamco.com/#range-hood-beam-guide.
+
+### What face height and depth work for a range hood mantel?
+A stock mantel from Barndo Beam Co. has an 8 inch tall face and is 10 inches deep. That is the usual hood mantel: tall enough to read above the hood, and deep enough for a short shelf that does not crowd the cook. A one-of-a-kind beam often has a face of about 8 to 10 inches. A taller face or a deeper shelf is a custom size by quote. On a wall with upper cabinets tight to the hood, an 8 inch face is usually enough. Tell us the hood depth and how much wall is above the hood when you request a quote.
+
+### How much clearance does a wood beam need from a range hood?
+Follow the clearance in your range hood manufacturer's instructions, and follow local code. A wood beam is combustible. If the manual and the local code do not match, follow the stricter one. Do not guess a number of inches, and do not copy a gap from a photo. The beam must not cover a filter, a light, or a control, and it must not pinch the duct. Barndo Beam Co. supplies the wood. The hood maker and local code set the clearance. Have the installer confirm the beam sits outside that clearance before the wood goes up.
+
+### How is a range hood beam mounted?
+A qualified installer should mount it. Three approaches are common, the same general approaches used for a fireplace mantel: a hidden steel bracket or rods in the back of the beam, a wood cleat lagged into the wall studs, or masonry anchors when the wall is solid brick or stone. The fasteners have to land in studs, blocking, or solid masonry, not in drywall alone. Leave the duct, the filters, and the hood controls clear so the hood can still be serviced. Do not fasten the beam to the hood unless the hood maker says the hood can carry that weight. A solid beam is heavy, and the beam is decorative. For the general mantel mounts, see the mantel install guide at https://barndobeamco.com/#mantel-install-guide.
+
+### How do I clean cooking grease off a hand-hewn range hood beam?
+Wipe grease with a soft cloth that is barely damp, and use a drop of mild dish soap if you need it. Dry the spot at once. Do not soak the beam. Do not use a steam cleaner, oven cleaner, bleach, or a harsh degreaser, because those can dull a natural, medium, or dark finish and lift color out of the adze marks. Work along the grain and leave the checks and tool marks. Do not sand the face. A finished beam is easier to wipe than a raw one. For everyday dusting, see the beam care guide at https://barndobeamco.com/#beam-care-guide.
+
+### How do I pair a range hood beam with a mantel or ceiling beams, and how do I request a quote?
+Order the hood beam in the same finish as the fireplace mantel and the ceiling beams: natural, medium, or dark. No two pieces of reclaimed wood match exactly. Keep the ceiling beams stopped short of the hood, or run them beside it, so the hood beam is the piece at the range. Use the free quote form at https://barndobeamco.com/#quote, call 1-877-870-BEAM (2326), or email barndobeamco@agentmail.to. Tell us the hood width, the beam length, the finish, and your ZIP code, and name the mantel or ceiling beams you want it to sit with. We reply within 2 business days with the wood price and shipping to that ZIP. Quotes are free. Every piece is handcrafted in Oklahoma, shipped in the continental US.
+
 ## Pages
 - [Home and collection](https://barndobeamco.com/#shop)
 - [Custom Tables](https://barndobeamco.com/#tables)
@@ -296,5 +318,6 @@ Use the free quote form at https://barndobeamco.com/#quote, call 1-877-870-BEAM 
 - [Hand-hewn vs. resawn vs. faux beam guide](https://barndobeamco.com/#hewn-vs-faux-guide)
 - [Beam ideas by room](https://barndobeamco.com/#beam-ideas-by-room)
 - [Barndominium beam design guide](https://barndobeamco.com/#barndo-beam-design-guide)
+- [Range hood beam guide](https://barndobeamco.com/#range-hood-beam-guide)
 - [FAQ](https://barndobeamco.com/#faq)
 - [Free quote](https://barndobeamco.com/#quote)
