@@ -476,6 +476,28 @@ Add the table on the same list as the beams and the mantel, in the same finish: 
 ### What should I send with a free quote request for a design project?
 Send one list: the beam count, each length, the face dimensions, solid or box, hand-hewn or sawn, and the ceiling type. If the plan has a mantel, send the length, the face and the depth, mantel only or mantel plus two legs, and the wall type. If the plan has a table, send dining, coffee, or console, the length, the width, the height, and the base. Name the finish, natural (clear), medium, or dark, and add a short note on the floors, the cabinets, and the light. Send measurements and photos when the space can be measured. Include your ZIP code so shipping in the continental US is quoted with the wood. Use the free quote form at https://barndobeamco.com/#quote, call 1-877-870-BEAM (2326), or email barndobeamco@agentmail.to. What changes the wood price and the shipping is in the quote factors guide at https://barndobeamco.com/#quote-factors-guide. This guide does not list prices. We reply within 2 business days with the wood price and shipping to that ZIP. Quotes are free. Every piece is handcrafted in Oklahoma, shipped in the continental US.
 
+## Porch and entry header guide
+
+How to size a hand-hewn porch or entry header: measure the clear opening and the full length the beam has to run, pick an 8 by 10 or a 10 by 12 face and a stock length, keep the wood under a roof or indoors, and leave any load to a builder or a structural engineer. This guide does not list prices. Full guide: https://barndobeamco.com/#porch-header-guide
+
+### How do I size a hand-hewn porch or entry header?
+Measure the clear width of the opening, inside edge to inside edge, at the height where the header will sit. If the posts or the jambs are not plumb, measure the width again and send both numbers. Then measure the full length the beam has to run so each end can land on a post, a wall, or framing. That full length is longer than the clear opening. How much of each end sits on the support is the builder's decision. Do not guess a bearing length. Stock porch and entry headers are 8 by 10 or 10 by 12, in 6, 8, 10, and 12 ft lengths. A longer length is by quote. If the length falls between stock sizes, round up to the next stock length or ask for a custom length. The header is decorative unless a builder or a structural engineer approves it to carry a load. See the porch header guide at https://barndobeamco.com/#porch-header-guide. Every piece is handcrafted in Oklahoma, shipped in the continental US.
+
+### What stock sizes do porch and entry headers come in?
+Stock porch and entry headers are 8 by 10 or 10 by 12. Lengths are 6, 8, 10, and 12 ft. A longer length, or a face other than those two, is by quote. An 8 by 10 is the smaller face. It suits a single door or a shorter span people see up close. A 10 by 12 is the heavier face. It reads on a wide porch or under a taller porch ceiling. These are the sizes we make. They are not a span table. If the beam has to carry a roof, a wall, or a floor, a builder or a structural engineer picks the size. This guide does not list prices. See the porch header guide at https://barndobeamco.com/#porch-header-guide.
+
+### Can a reclaimed wood header go on an open deck, or only under a roof?
+Use a header on a covered porch, where the roof keeps rain off the wood, or indoors over a doorway or a cased opening. The porch can be open on the sides. The roof is what matters. Do not set the beam on an open deck with no roof, and do not set it where rain, a sprinkler, or standing water hits the wood. If rain still reaches that spot, do not put the wood there. Direct weather swells the beam, opens checks, and wears a finish off. See the beam care guide at https://barndobeamco.com/#beam-care-guide and the porch header guide at https://barndobeamco.com/#porch-header-guide.
+
+### Is a porch or entry header structural?
+No. Porch and entry headers are sold for decorative use. If a beam has to carry a roof, a wall, or a floor, have a builder or a structural engineer approve that use first. If the porch already has a structural header, the reclaimed beam can be the visible face in front of it or below it, and the existing structure stays. Do not hang a roof on a decorative beam. A carpenter or builder does the install. Barndo Beam Co. supplies the wood. See the porch header guide at https://barndobeamco.com/#porch-header-guide.
+
+### How do I match a porch header to the beams inside?
+Name one finish: natural (clear), medium, or dark. If the door opens into a room with ceiling beams or a mantel, use that same finish on the header. Natural stays closest to the weathered color. Medium warms the wood. Dark deepens the grain. The piece is finished before it ships. Reclaimed wood will not match a stain or a paint chip exactly, and no two pieces match exactly. Inside the entry, a beam console is a separate piece. See the finish matching guide at https://barndobeamco.com/#finish-matching-guide, the coffee and console guide at https://barndobeamco.com/#coffee-console-guide, and the porch header guide at https://barndobeamco.com/#porch-header-guide.
+
+### What should I send with a free quote for a porch or entry header?
+Send the clear opening width, the full length the beam has to run, 8 by 10 or 10 by 12, whether the spot is a covered porch or an indoor opening, and whether a structural header is already there. Name the finish, natural (clear), medium, or dark. Photos are a wide shot of the opening, a closer shot of where the beam will sit, and one photo with a tape measure in the frame. Include your ZIP code so shipping in the continental US is quoted with the wood. Use the free quote form at https://barndobeamco.com/#quote, call 1-877-870-BEAM (2326), or email barndobeamco@agentmail.to. This guide does not list prices. We reply within 2 business days with the wood price and shipping to that ZIP. Quotes are free. Every piece is handcrafted in Oklahoma, shipped in the continental US. See the porch header guide at https://barndobeamco.com/#porch-header-guide.
+
 ## Pages
 - [Home and collection](https://barndobeamco.com/#shop)
 - [Custom Tables](https://barndobeamco.com/#tables)
@@ -500,5 +522,6 @@ Send one list: the beam count, each length, the face dimensions, solid or box, h
 - [Delivery receiving guide](https://barndobeamco.com/#delivery-receiving-guide)
 - [Quote factors guide](https://barndobeamco.com/#quote-factors-guide)
 - [Designer spec guide](https://barndobeamco.com/#designer-spec-guide)
+- [Porch and entry header guide](https://barndobeamco.com/#porch-header-guide)
 - [FAQ](https://barndobeamco.com/#faq)
 - [Free quote](https://barndobeamco.com/#quote)
